@@ -1,1 +1,6 @@
-{ "version": "1.0.1", "url": "", "sha256": "", "notes": "" }
+{
+  "version": "1.0.2",
+  "url": "https://github.com/TotallyMew/UltraBike_Automatizacija_Release/releases/download/v1.0.2/UltraBike_Automatizacija_Setup_1.0.2.exe",
+  "sha256": "7549C71C064A508FD96C1B0773EE1D4DC0803DFDCBA7997A44F8389FA6EDF4F8",
+  "notes": "Bug fixes and improvements."
+}
