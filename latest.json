@@ -1,6 +1,7 @@
 {
-    "version":  "1.1.1",
-    "url":  "https://github.com/TotallyMew/UltraBike_Automatizacija_Release/releases/download/v1.1.1/UltraBike_Automatizacija_Setup_1.1.1.exe",
-    "sha256":  "2b02b874b7ef963d81a614f32991aa2570e5262416e35b467bbe8d2d60a7cb11",
-    "notes":  "1.1.1: updater defaults fixed (manifest URL now set by default); updater runs silent installs (no wizard, no post-install auto-launch)."
+  "version": "1.1.2",
+  "url": "https://github.com/TotallyMew/UltraBike_Automatizacija_Release/releases/download/v1.1.2/UltraBike_Automatizacija_Setup_1.1.2.exe",
+  "sha256": "C7BDEBD314EE69BDFA8C7F14B2A88B5BE2D0607D6E465ABDFEE7861538FEB68F",
+  "notes": "1.1.2: Batch descriptions now match batch titles logic for UB- prefix; removed row limits; auto-save after each row; product title field for last language edited is focused and clicked before saving; release version updated to v1.1.2.",
+  "installer": "UltraBike_Automatizacija_Setup_1.1.2.exe"
 }
