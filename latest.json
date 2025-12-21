@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/TotallyMew/UltraBike_Automatizacija_Release/releases/download/v1.0.3/UltraBike_Automatizacija_Setup_1.0.3.exe",
-  "sha256": "4554747364B810A0307CF159668438164118652EA8E56824E95E6E9242039A69",
-  "notes": "Silent in-app updates; installer language selection (EN/LT) and first-run app language set from installer."
+    "version":  "1.1.0",
+    "url":  "https://github.com/TotallyMew/UltraBike_Automatizacija_Release/releases/download/v1.1.0/UltraBike_Automatizacija_Setup_1.1.0.exe",
+    "sha256":  "e19f5474fbd37a735dd02db49ac51a00f8d0810157bf35e58ad209f67d776d6a",
+    "notes":  "1.1.0: batch UI layout/scroll improvements; batch titles changes; disclaimer + order-note append fixes for single \u0026 batch upload; order-note TinyMCE empty-paragraph cleanup."
 }
